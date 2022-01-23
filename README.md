@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijatzv&label=Profile%20views&color=0e75b6&style=flat" alt="nijatzv" /> </p>
 <p align="left"> <a href="https://twitter.com/jestemnijat" target="blank"><img src="https://img.shields.io/twitter/follow/jestemnijat?logo=twitter&style=for-the-badge" alt="jestemnijat" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 
 ## I'm a Computer Science student, Developer, and future Data Scientist!!
