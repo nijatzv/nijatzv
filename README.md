@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: **Learning new programming language for Data Science**
 - ⚡ Fun fact: **I love to play chess**
-- 💬 Ask me about **everything on Python**
+- 💬 Ask me about **everything on Python, HTML and CSS**
 
 
 
