@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijatzv&label=Profile%20views&color=0e75b6&style=flat" alt="nijatzv" /> </p>
 <p align="left"> <a href="https://twitter.com/nijatzak" target="blank"><img src="https://img.shields.io/twitter/follow/nijatzak?logo=twitter&style=for-the-badge" alt="nijatzak" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fhul78%2Fart%2FMan-Typing-510504618&psig=AOvVaw3t8p7KrCx4q3aT5T0Nxikm&ust=1653891403315000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDk1Z-HhPgCFQAAAAAdAAAAABAS">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f924d23-b587-49a8-aa9d-b55939eee262/d8fxvvu-419b10c7-b218-422d-861d-5f546b64702a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmOTI0ZDIzLWI1ODctNDlhOC1hYTlkLWI1NTkzOWVlZTI2MlwvZDhmeHZ2dS00MTliMTBjNy1iMjE4LTQyMmQtODYxZC01ZjU0NmI2NDcwMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eQRrpIj0wPZGhCTVrcKQSt36HR9Oa52i78SsUK8utH0">
 
 
 ## I'm a Computer Science student, Developer, and future Data Scientist!!
